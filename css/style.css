@@ -399,7 +399,7 @@ nav ul li a:hover {
 }
 
 #experience {
-  padding: 5rem;
+  padding: 5rem 5rem 0rem 5rem;
   margin: auto auto 50px 1rem;
 }
 
@@ -983,7 +983,7 @@ nav .menu-btn,
   }
 
   .phone {
-    margin-left: -3rem;
+    width: 90%;
   }
 
   .footer-distributed .footer-center i {
